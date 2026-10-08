@@ -31,7 +31,7 @@ Materi ini membahas penggunaan metode `__construct()` untuk inisialisasi propert
 Materi ini membahas mekanisme pewarisan sifat dan properti dari *parent class* ke *child class* menggunakan kata kunci `extends`.
 
 ### Screenshot Hasil Output
-![Output Pertemuan 03](screenshoot/03Inheritancephp.png)
+![Output Pertemuan 03](screenshoot/03inheritancephp.png)
 
 ---
 
@@ -39,7 +39,7 @@ Materi ini membahas mekanisme pewarisan sifat dan properti dari *parent class* k
 Materi ini membahas kemampuan suatu objek untuk memiliki banyak bentuk melalui teknik *method overriding*.
 
 ### Screenshot Hasil Output
-![Output Pertemuan 04](screenshoot/04Polymorphismphp.png)
+![Output Pertemuan 04](screenshoot/04polymorphismphp.png)
 
 ---
 
@@ -47,7 +47,7 @@ Materi ini membahas kemampuan suatu objek untuk memiliki banyak bentuk melalui t
 Materi ini membahas hubungan antar objek, baik hubungan asosiasi maupun hubungan komposisi/agregasi.
 
 ### Screenshot Hasil Output
-![Output Pertemuan 05](screenshoot/05AsosiasiKomposisiphp.png)
+![Output Pertemuan 05](screenshoot/05asosiasiKomposisiphp.png)
 
 ---
 
@@ -55,4 +55,4 @@ Materi ini membahas hubungan antar objek, baik hubungan asosiasi maupun hubungan
 Materi ini membahas implementasi abstraksi menggunakan `abstract class` dan kata kunci `implements` untuk `interface`.
 
 ### Screenshot Hasil Output
-![Output Pertemuan 06](screenshoot/06AbstractInterfacephp.png)
+![Output Pertemuan 06](screenshoot/06abstractInterfacephp.png)
