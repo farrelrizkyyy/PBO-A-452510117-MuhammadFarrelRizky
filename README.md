@@ -47,7 +47,7 @@ Materi ini membahas kemampuan suatu objek untuk memiliki banyak bentuk melalui t
 Materi ini membahas hubungan antar objek, baik hubungan asosiasi maupun hubungan komposisi/agregasi.
 
 ### Screenshot Hasil Output
-![Output Pertemuan 05](screenshoot/05asosiasiKomposisiphp.png)
+![Output Pertemuan 05](screenshoot/05asosiasikomposisiphp.png)
 
 ---
 
@@ -55,4 +55,4 @@ Materi ini membahas hubungan antar objek, baik hubungan asosiasi maupun hubungan
 Materi ini membahas implementasi abstraksi menggunakan `abstract class` dan kata kunci `implements` untuk `interface`.
 
 ### Screenshot Hasil Output
-![Output Pertemuan 06](screenshoot/06abstractInterfacephp.png)
+![Output Pertemuan 06](screenshoot/06abstractinterfacephp.png)
